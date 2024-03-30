@@ -26,7 +26,12 @@ This tutorial outlines the implementation of on-premises Active Directory within
 - Create non-administrative users
 
 <h2>Deployment and Configuration Steps</h2>
-Installed Active Directory Domain Services.
+Created two Virtual Machines in Azure and logged into them with Remote Desktop connection.
+<img width="1710" alt="Lab 5 Azure VM creation" src="https://github.com/brysonejones/configure-ad/assets/163891519/9a5ff78c-b27f-4e29-827e-72da10b12159">
+<img width="1710" alt="Lab 5 VM login" src="https://github.com/brysonejones/configure-ad/assets/163891519/8d5cdd6f-09ee-498a-ac23-488c5f6ffdc4">
+</p>
+<p>
+Installed Active Directory Domain Services in the Windows Server VM.
 <img width="947" alt="Installing AD DS" src="https://github.com/brysonejones/configure-ad/assets/163891519/dfa1a93c-4d3c-4fd5-ad53-6813c1e106d2">
 <img width="1582" alt="Installing AD DS 2" src="https://github.com/brysonejones/configure-ad/assets/163891519/9d6b486d-6921-440f-a875-1ccdbd450030">
 </p>
@@ -40,14 +45,14 @@ Joined Client-1 to mydomain.com on DC-1 by changing Client-1 DNS settings in Azu
 <img width="1710" alt="C1 domain addition" src="https://github.com/brysonejones/configure-ad/assets/163891519/bf34a554-c571-4114-a6bb-bf709f324763">
 <img width="367" alt="C1 domain addition 2" src="https://github.com/brysonejones/configure-ad/assets/163891519/789850d2-4830-4e1e-b14d-f4d0b5185b1f">
 <img width="859" alt="C1 domain addition 3" src="https://github.com/brysonejones/configure-ad/assets/163891519/a27b77ef-67ef-4558-8d0e-bcc88d12a572">
+<img width="1710" alt="Lab 5 RDP setup" src="https://github.com/brysonejones/configure-ad/assets/163891519/c4c35bbe-c35f-4ae5-ad8a-2d102bd9157e">
 </p>
 <p>
-Generated some additional users with resources from class instructor. They were inserted into the Employees folder.
+Generated some additional users with resources from class instructor. They were inserted into the _Employees Organizational Unit.
 <img width="1297" alt="Normal users creation" src="https://github.com/brysonejones/configure-ad/assets/163891519/bda3f775-9544-4b75-a1de-1a595723b848">
 <img width="957" alt="Normal users creation 2" src="https://github.com/brysonejones/configure-ad/assets/163891519/8cc024ae-45c7-42a5-bc47-e019eb237e54">
 </p>
 <p>
-Logged in as one of the generated user accounts
-
+Logged in as one of the generated user accounts.
 <img width="1710" alt="User domain login 2" src="https://github.com/brysonejones/configure-ad/assets/163891519/3867dd61-52ac-4110-9772-0b4db6290197">
 <img width="447" alt="User domain login" src="https://github.com/brysonejones/configure-ad/assets/163891519/dece4551-fb13-4b41-bbaf-039fa1e89238">
