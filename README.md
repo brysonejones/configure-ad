@@ -36,7 +36,7 @@ Created an administrative user for Jane Doe(jane_admin) and then made it a membe
 <img width="410" alt="Jane DA member" src="https://github.com/brysonejones/configure-ad/assets/163891519/e79734d0-c3a9-48a7-954d-9ce7c322c59e">
 </p>
 <p>
-Joined Client-1 to mydomain.com on DC-1 by changing Client-1 DNS settings in Azure and point it to the Domain Controller on DC-1; also made Client-1 accessible by Remote Desktop so other non-admin users can login on the computer.
+Joined Client-1 to mydomain.com on DC-1 by changing Client-1 DNS settings in Azure and point it to the Domain Controller's private IP address on DC-1; also made Client-1 accessible by Remote Desktop so other non-admin users can login on the computer.
 <img width="1710" alt="C1 domain addition" src="https://github.com/brysonejones/configure-ad/assets/163891519/bf34a554-c571-4114-a6bb-bf709f324763">
 <img width="367" alt="C1 domain addition 2" src="https://github.com/brysonejones/configure-ad/assets/163891519/789850d2-4830-4e1e-b14d-f4d0b5185b1f">
 <img width="859" alt="C1 domain addition 3" src="https://github.com/brysonejones/configure-ad/assets/163891519/a27b77ef-67ef-4558-8d0e-bcc88d12a572">
