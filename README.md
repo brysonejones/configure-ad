@@ -31,7 +31,7 @@ Installed Active Directory Domain Services.
 <img width="1582" alt="Installing AD DS 2" src="https://github.com/brysonejones/configure-ad/assets/163891519/9d6b486d-6921-440f-a875-1ccdbd450030">
 </p>
 <p>
-Created an admin account for Jane Doe(jane_admin) and then made it a member of Domain Admins.
+Created an administrative user for Jane Doe(jane_admin) and then made it a member of Domain Admins.
 <img width="690" alt="Admin Accnt creation" src="https://github.com/brysonejones/configure-ad/assets/163891519/824a24ec-8fec-4321-a9a2-f4d6d8a51793">
 <img width="410" alt="Jane DA member" src="https://github.com/brysonejones/configure-ad/assets/163891519/e79734d0-c3a9-48a7-954d-9ce7c322c59e">
 </p>
